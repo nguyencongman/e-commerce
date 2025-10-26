@@ -1,0 +1,42 @@
+lib/firebase_options.dart
+# Flutter/Dart related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Android build output
+android/app/build/
+**/android/app/*.apk
+**/android/app/*.aab
+android/local.properties
+
+# iOS build output & Xcode
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+
+# IDE / OS files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
+
+# Other generated or unwanted files
+*.log
+*.tmp
+
